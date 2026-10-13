@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mercimek Çorbası",
+    "category": "Çorba",
+    "calories": 180,
+    "vegan": true,
+    "ingredients": ["kırmızı mercimek", "soğan", "havuç", "zeytinyağı", "tuz"]
+  },
+  {
+    "name": "Tulum Peynirli Çikolatalı Tatlı",
+    "category": "Tatlı",
+    "calories": 320,
+    "vegan": false,
+    "ingredients": ["tulum peyniri", "bihter çikolata", "tereyağı", "şeker", "un"]
+  }
+]
